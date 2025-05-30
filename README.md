@@ -1,7 +1,7 @@
 # Nmap Araç Ailesi: Kapsamlı Pratik Kullanım Rehberi
 
 **Sürüm:** 1.0
-**Son Güncelleme:** [Güncel Tarih]
+**Son Güncelleme:** [30-05-2025]
 
 ## 📜 İçindekiler
 
